@@ -1,6 +1,6 @@
 ### C++ benchmarks: `vector` vs `list` vs `deque`
 
-- First commit of code for comparing various containers in C++ STL. Thanks to David Copolla and this article at http://goo.gl/HFsXes. 
+- Comparison of various containers in C++ STL library, based on David Copolla's code and this article at http://goo.gl/HFsXes. When downloaded it should compile using Mingw within Eclipse.
 
 - Hat tip to Ramya V (KITE) for finding this. 
 

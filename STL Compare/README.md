@@ -1,6 +1,6 @@
 ### C++ benchmarks: `vector` vs `list` vs `deque`
 
-- Comparison of various containers in C++ STL library, based on David Copolla's code and this article at http://goo.gl/HFsXes. When downloaded it should compile using Mingw within Eclipse.
+- Comparison of various containers in C++ STL library, based on David Copolla's code and this article at http://goo.gl/HFsXes. When downloaded it should readily compile using `Mingw within the Eclipse IDE`.
 
 - Hat tip to Ramya V (KITE) for finding this. 
 

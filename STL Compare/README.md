@@ -1,8 +1,10 @@
 ### C++ benchmarks: `vector` vs `list` vs `deque`
 
+- Hat tip to Ramya V (KGISL) for finding this. 
+
 - Comparison of various containers in C++ STL library, based on David Copolla's code and this article at http://goo.gl/HFsXes. When downloaded it should readily compile using `Mingw within the Eclipse IDE`.
 
-- Hat tip to Ramya V (KITE) for finding this. 
+- To get similar results as the author, the `build.sh` file has some flag settings which probably need to reflected in the Eclipse's build, which might already be the case, but needs to be looked into.
 
 ### Why avoid Linked Lists?
 Here's the video that is referred to in the article - Bjarne Stroustrup: Why you should avoid Linked Lists - YouTube http://buff.ly/1tzmBQS 

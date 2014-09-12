@@ -10,6 +10,7 @@
 Here's the video that is referred to in the article - Bjarne Stroustrup: Why you should avoid Linked Lists - YouTube http://buff.ly/1tzmBQS 
 
 A long and interesting discussion on the same topic on LinkedIn: Vector vs Linked list http://buff.ly/1uKLLgi
+ - How about comparing the STL's performance to Qt library's vector and list containers? 
 
 ### Bonus 
 Bjarne Stroustrup - The Essence of C++ - YouTube http://buff.ly/1tzoahL

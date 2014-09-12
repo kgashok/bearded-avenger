@@ -9,9 +9,11 @@
 ### Why avoid Linked Lists?
 Here's the video that is referred to in the article - Bjarne Stroustrup: Why you should avoid Linked Lists - YouTube http://buff.ly/1tzmBQS 
 
-### Explore Further?
-A long and interesting discussion on the same topic on LinkedIn: Vector vs Linked list http://buff.ly/1uKLLgi
-  - How do the STL containers compare to `Qt` library's containers? Start exploring here: QVector vs QList - Stack Overflow http://buff.ly/1lZdjPz
+### Suggestions for Remix
+- Use a better clocking mechanism to get more accurate comparisons
+  - Blargh - gettimeofday() should never be used to measure time http://buff.ly/1qJKpTy
+- A long and interesting discussion on the same topic on LinkedIn: Vector vs Linked list http://buff.ly/1uKLLgi
+  - How do the STL containers compare to `Qt` library's containers? Start exploring here: QVector vs QList - Stack Overflow http://buff.ly/1lZdjPz  
   
 ### Bonus 
 Bjarne Stroustrup - The Essence of C++ - YouTube http://buff.ly/1tzoahL

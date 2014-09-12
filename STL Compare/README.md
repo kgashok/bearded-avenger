@@ -9,6 +9,8 @@
 ### Why avoid Linked Lists?
 Here's the video that is referred to in the article - Bjarne Stroustrup: Why you should avoid Linked Lists - YouTube http://buff.ly/1tzmBQS 
 
+A long and interesting discussion on the same topic on LinkedIn: Vector vs Linked list http://buff.ly/1uKLLgi
+
 ### Bonus 
 Bjarne Stroustrup - The Essence of C++ - YouTube http://buff.ly/1tzoahL
  - There are many interesting opinions on C++ shared by him, but I really like the last Q&A starting [@1:35:43](http://www.youtube.com/watch?v=86xWVb4XIyE&t=1h35m43s)
